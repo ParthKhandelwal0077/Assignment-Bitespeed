@@ -1,0 +1,1 @@
+"postgresql://parthkhandelwal:postgres@localhost:5432/bitespeed"
