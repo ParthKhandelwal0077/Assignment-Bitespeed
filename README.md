@@ -101,8 +101,7 @@ Or use `render.yaml` for blueprint deployment.
 
 ## Hosted Endpoint
 
-<!-- Replace with your deployed URL after hosting -->
-**Production URL:** `https://your-app.onrender.com` (or your Railway URL)
+**Production URL:** `https://assignment-bitespeed.onrender.com/identify` (
 
 ---
 
